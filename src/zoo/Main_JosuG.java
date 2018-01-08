@@ -5,7 +5,6 @@ import zoo.Elefante;
 import zoo.Leon;
 import zoo.Lombriz;
 import zoo.Mono;
-import zoo.Panda;
 
 public class Main_JosuG {
 	public static void main(String[] args){
@@ -14,7 +13,6 @@ public class Main_JosuG {
 	animales[1] = new Lombriz();
 	animales[2] = new Mono();
 	animales[3] = new Leon();
-	animales[4] = new Panda();
 	
 	for(int i=0; i < animales.length; i++){
 		Animal animal = animales[i];

@@ -89,7 +89,6 @@ public class Gekko extends Animal {
 		this.pegado = pegado;
 	}
 
-	@Override
 	public void mostrar() {
 		// TODO Auto-generated method stub
 		

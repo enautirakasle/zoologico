@@ -42,7 +42,7 @@ public class Pinguino  extends Animal {
 		}else{
 			alado=" no tengo alas";
 		}
-		super.mostrar();
+		
 		System.out.print(volar);
 		System.out.print(alado);
 		System.out.print(" y como "+getTipoComida());
